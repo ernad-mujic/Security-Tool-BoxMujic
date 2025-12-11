@@ -1,4 +1,4 @@
-Security Toolkit
+**Security Toolkit**
 
 A Flask web application that provides various security and utility tools:
 
@@ -10,7 +10,7 @@ Email Breach Checker
 
 About Me Page
 
-Installation
+**Installation**
 
 Clone the repository:
 - git clone https://github.com/yourusername/security-toolkit.git
